@@ -15,6 +15,8 @@ public class bakrkenzy {
         System.out.println("\n\tOur students in cass:\n");
         List<Student> students = new ArrayList<>();
         students.add(bakrkenzy.getStudent());
+       // Due to me not being on class I do not have other students info.
+        // Feel free to send me a couple if you want and I can resubmit the file if you need me to. Thank you.
 
 
         for (Student s : students) {
